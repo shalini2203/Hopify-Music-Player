@@ -13,4 +13,5 @@ The player uses HTML audio DOM reference
 
 https://shalini2203.github.io/Hopify-Music-Player/
 
+
 <img width="806" alt="Screenshot 2022-02-15 at 00 39 11" src="https://user-images.githubusercontent.com/83633310/153930245-20b00661-02fc-41c0-8ec2-6e3fd8bb7751.png">
